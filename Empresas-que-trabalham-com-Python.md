@@ -1,11 +1,12 @@
+Elaboramos uma pesquisa online sobre o perfil da comunidade Python Brasil em 2014. Coletamos dados entre os meses de Maio-Julho/2014 e um dos resultados é uma lista de empresas que usam(muito ou pouco) a linguagem Python em projetos. 
+
+PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que está citada erradamente, favor enviar a correção. 
+
+
 - @Saber
-
 - 180 Graus
-
 - 2XT Tecnologia
-
 - 4its
-
 - 4linux
 - 8Lab
 - A Gazeta da Zona Norte
@@ -13,143 +14,142 @@
 - [Agência Tree](http://www.agenciatree.com/)
 - Amazon
 - Ananke
-APB Prodata
-Aricanduva Lanches
-Atepassar
-AvelinoLabs
-Avenue Developer
-Azion Technologies
-B2Blue
-Bambae
-Beagle Ship
-BHTEC (Muito pouco)
-Bireme
-Blouweb
-Canonical
-Cargobr
-Catho
-Célula Digital
-Citrix
-Citruz
-CodeUp software
-Coreworks
-Croasonho Franquias
-CWI
-DBAPPZ
-Defensoria Publica do Tocantins
-Dekode
-DexaTec
-Diários Associados
-Disqus
-Doingcast
-Dropbox
-E.Lac
-Embratel
-ER Sistemas
-Ericsson
-Evolux
-Fábrica de Softwares
-FEA - USP
-Fiocruz
-Gavinho Labs
-GCSecurity
-Geekie
-Genomika
-Globo.com
-Globosense
-GoNow
-Google
-Grupo Guararapes
-Grupo Realize de Móveis Planejados
-GTAC - São José dos Campos
-GTAT
-GTI Engenharia Jr.
-Halts
-HUBtech
-IFCE
-IFPE
-IFPI
-IFRN
-Index
-INGG
-Inova Software
-Instagram
-Interlegis
-Intip
-iTFLEX tecnologia
+- APB Prodata
+- Aricanduva Lanches
+- Atepassar
+- AvelinoLabs
+- Avenue Developer
+- Azion Technologies
+- B2Blue
+- Bambae
+- Beagle Ship
+- BHTEC
+- Bireme
+- Blouweb
+- Canonical
+- Cargobr
+- Catho
+- Célula Digital
+- Citrix
+- Citruz
+- CodeUp Software
+- Coreworks
+- Croasonho Franquias
+- CWI
+- DBAPPZ
+- Defensoria Pública do Tocantins
+- Dekode
+- DexaTec
+- Diários Associados
+- Disqus
+- Doingcast
+- Dropbox
+- E.Lac
+- Embratel
+- ER Sistemas
+- Ericsson
+- Evolux
+- Fábrica de Softwares
+- FEA - USP
+- Fiocruz
+- Gavinho Labs
+- GCSecurity
+- Geekie
+- Genomika
+- Globo.com
+- Globosense
+- GoNow
+- Google
+- Grupo Guararapes
+- Grupo Realize de Móveis Planejados
+- GTAC - São José dos Campos
+- GTAT
+- GTI Engenharia Jr.
+- Halts
+- HUBtech
+- IFCE
+- IFPE
+- IFPI
+- IFRN
+- Index
+- INGG
+- Inova Software
+- Instagram
+- Interlegis
+- Intip
+- iTFLEX tecnologia
 ITJP.NET.BR
-Jurid
-JusBrasil
-Kendoo
-LabCodes
-Laboratório de Inovação Tecnológica em Saúde (LAIS) do Hospital Universtário Onofre Lopes (UFRN)
-LEM
-Liberium
-Loogica
-Magazine Luiza
-McDonalds 
-Ministério Publico de Tocantins
-Mobdoctor
-MOBTech(Software de Gestão Imobiliária)
-Morphy
-Mundi Tecnologia
-Myfreecomm
-Nasa
-Netflix
-Nokia
-Nokia
-Omelete
-Paggtaxi
-Panfleteria
-Phoebus Tecnologia
-Pinterest
-Planejar
-Potato
-Prefeitura de Palmas Tocantins
-Pricez
-Pycursos
-Python Pro
-QMagico
-Quatix - http://quatix.com.br/
-Rdio
-Red Hat
-Riachuello
-SEGSAT
-Serpro
-Sieve - http://sieve.com.br/
-Simples Consultoria
-Simples. PyTown
-Sistema Brasileiro de Televisão
-Spotify
-Stored E-commerce
-Storm Security
-Studio Sol
-Sylvia Design
-T&T Sistemas
-Terra
-Thinkr
-Tins
-Titans Group
-Tourhouse
-Tracy Web Technologies
-Tribunal Regional Eleitoral Regional Tocantins
-Trippcs - https://trippics.com/
-Triveos
-Twitter
-UCS
-UFRN
-UFSM
-Upando
-USP (utilização acadêmica)
-Vagalume
-Veezor
-Vetor Zero
-Vinta
-Vitrola
-Volkswagen
-Wikipedia
-WP8
-Yacows - http://yacows.com.br/
-youtube
-Zazu
-ZNC Sistemas
+- Jurid
+- JusBrasil
+- Kendoo
+- LabCodes
+- Laboratório de Inovação Tecnológica em Saúde (LAIS) do Hospital Universtário Onofre Lopes (UFRN)
+- LEM
+- Liberium
+- Loogica
+- Magazine Luiza
+- McDonalds 
+- Ministério Publico de Tocantins
+- Mobdoctor
+- MOBTech
+- Morphy
+- Mundi Tecnologia
+- Myfreecomm
+- Nasa
+- Netflix
+- Nokia
+- Omelete
+- Paggtaxi
+- Panfleteria
+- Phoebus Tecnologia
+- Pinterest
+- Planejar
+- Potato
+- Prefeitura de Palmas Tocantins
+- Pricez
+- Pycursos
+- Python Pro
+- QMágico
+- Quatix 
+- Rdio
+- Red Hat
+- Riachuello
+- SEGSAT
+- Serpro
+- Sieve
+- Simples Consultoria
+- PyTown
+- Sistema Brasileiro de Televisão
+- Spotify
+- Stored E-commerce
+- Storm Security
+- Studio Sol
+- Sylvia Design
+- T&T Sistemas
+- Terra
+- Thinkr
+- Tins
+- Titans Group
+- Tourhouse
+- Tracy Web Technologies
+- Tribunal Regional Eleitoral Regional Tocantins
+- Trippcs 
+- Triveos
+- Twitter
+- UCS
+- UFRN
+- UFSM
+- Upando
+- USP 
+- Vagalume
+- Veezor
+- Vetor Zero
+- Vinta
+- Vitrola
+- Volkswagen
+- Wikipedia
+- WP8
+- Yacows 
+- Youtube
+- Zazu
+- ZNC Sistemas
