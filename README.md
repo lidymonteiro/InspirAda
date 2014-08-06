@@ -1,4 +1,2 @@
-empresas-que-trabalham-com-python
-=================================
-
-Lista de empresas que usam a linguagem de programação Python
+Repositório do Blog InspirAda na da Computação
+==============================================
