@@ -1,8 +1,8 @@
-Elaboramos uma [pesquisa](http://inspiradanacomputacao.wordpress.com/2014/05/23/pesquisa-sobre-a-comunidade-python-brasil-em-2014/) online sobre o perfil da comunidade Python Brasil em 2014. Coletamos dados entre os meses de Maio-Julho/2014 e um dos resultados é uma lista de empresas/instituições que usam a linguagem Python. 
+Elaboramos uma [pesquisa](http://inspiradanacomputacao.wordpress.com/2014/05/23/pesquisa-sobre-a-comunidade-python-brasil-em-2014/) online sobre o perfil da comunidade Python Brasil em 2014. Coletamos dados entre os meses de Maio-Julho/2014 e um dos resultados é uma lista de 147 empresas/instituições que usam a linguagem Python. 
 
 PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que está citada erradamente, favor enviar a correção. 
 
- - @Saber
+- @Saber
 - 180 Graus
 - 2XT Tecnologia
 - 4its
