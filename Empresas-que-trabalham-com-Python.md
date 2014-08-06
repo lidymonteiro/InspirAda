@@ -1,9 +1,8 @@
-Elaboramos uma pesquisa online sobre o perfil da comunidade Python Brasil em 2014. Coletamos dados entre os meses de Maio-Julho/2014 e um dos resultados é uma lista de empresas que usam(muito ou pouco) a linguagem Python em projetos. 
+Elaboramos uma [pesquisa](http://inspiradanacomputacao.wordpress.com/2014/05/23/pesquisa-sobre-a-comunidade-python-brasil-em-2014/) online sobre o perfil da comunidade Python Brasil em 2014. Coletamos dados entre os meses de Maio-Julho/2014 e um dos resultados é uma lista de empresas/instituições que usam a linguagem Python. 
 
 PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que está citada erradamente, favor enviar a correção. 
 
-
-- @Saber
+ - @Saber
 - 180 Graus
 - 2XT Tecnologia
 - 4its
@@ -11,7 +10,7 @@ PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que est�
 - 8Lab
 - A Gazeta da Zona Norte
 - Agência 128 Bits
-- [Agência Tree](http://www.agenciatree.com/)
+- Agência Tree
 - Amazon
 - Ananke
 - APB Prodata
@@ -50,7 +49,6 @@ PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que est�
 - Ericsson
 - Evolux
 - Fábrica de Softwares
-- FEA - USP
 - Fiocruz
 - Gavinho Labs
 - GCSecurity
@@ -78,12 +76,11 @@ PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que est�
 - Interlegis
 - Intip
 - iTFLEX tecnologia
-ITJP.NET.BR
+- ITJP.NET.BR
 - Jurid
 - JusBrasil
 - Kendoo
 - LabCodes
-- Laboratório de Inovação Tecnológica em Saúde (LAIS) do Hospital Universtário Onofre Lopes (UFRN)
 - LEM
 - Liberium
 - Loogica
