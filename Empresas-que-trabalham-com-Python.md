@@ -1,4 +1,4 @@
-O Blog [InspirAda na Computação](http://inspiradanacomputacao.wordpress.com) elaborou uma [pesquisa](http://inspiradanacomputacao.wordpress.com/2014/05/23/pesquisa-sobre-a-comunidade-python-brasil-em-2014/) online sobre o perfil da comunidade Python Brasil em 2014. Coletamos dados entre os meses de Maio-Julho/2014 e um dos resultados é uma lista total de 147 - empresas e algumas instituições públicas - que usam a linguagem Python. 
+O Blog [InspirAda na Computação](http://inspiradanacomputacao.wordpress.com) elaborou uma [pesquisa](http://inspiradanacomputacao.wordpress.com/2014/05/23/pesquisa-sobre-a-comunidade-python-brasil-em-2014/) online sobre o perfil da comunidade Python Brasil em 2014. Coletamos dados entre os meses de Maio-Julho/2014 e um dos resultados é uma lista total de 148 - empresas e algumas instituições públicas - que usam a linguagem Python. 
 
 PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que está citada erradamente, favor enviar a correção. 
 
@@ -24,6 +24,7 @@ PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que est�
 - Beagle Ship
 - BHTEC
 - Bireme
+- Bitly
 - Blouweb
 - Canonical
 - Cargobr
