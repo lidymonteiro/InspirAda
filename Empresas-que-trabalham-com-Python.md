@@ -1,17 +1,18 @@
-@Saber
-[lista](http://groups.google.com/group/cacounicamp)
+- @Saber
 
-128bits.com
-180 Graus
-2XT Tecnologia
-4its
-4linux
-8Lab
-A Gazeta da Zona Norte
-Agência 128 Bits
-Agência Tree <a href="http://www.agenciatree.com/">Agência Tree</a>
-Amazon
-Ananke
+- 180 Graus
+
+- 2XT Tecnologia
+
+- 4its
+
+- 4linux
+- 8Lab
+- A Gazeta da Zona Norte
+- Agência 128 Bits
+- [Agência Tree](http://www.agenciatree.com/)
+- Amazon
+- Ananke
 APB Prodata
 Aricanduva Lanches
 Atepassar
