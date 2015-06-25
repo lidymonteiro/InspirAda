@@ -9,6 +9,7 @@ PS.: Caso vocÃª encontre alguma empresa que falta nessa lista ou alguma que estÃ
 - 4linux
 - 8Lab
 - A Gazeta da Zona Norte
+- Acotel do Brasil
 - AgÃªncia 128 Bits
 - AgÃªncia Tree
 - Amazon
@@ -18,6 +19,7 @@ PS.: Caso vocÃª encontre alguma empresa que falta nessa lista ou alguma que estÃ
 - Atepassar
 - AvelinoLabs
 - Avenue Developer
+- Axado
 - Azion Technologies
 - B2Blue
 - Bambae
@@ -26,10 +28,12 @@ PS.: Caso vocÃª encontre alguma empresa que falta nessa lista ou alguma que estÃ
 - Bireme
 - Bitly
 - Blouweb
+- Borayu
 - Canonical
 - Cargobr
 - Catho
 - CÃ©lula Digital
+- Chaordic
 - Citrix
 - Citruz
 - CodeUp Software
@@ -56,6 +60,7 @@ PS.: Caso vocÃª encontre alguma empresa que falta nessa lista ou alguma que estÃ
 - Geekie
 - Genomika
 - Globo.com
+- Globosat
 - Globosense
 - GoNow
 - Google
@@ -65,6 +70,7 @@ PS.: Caso vocÃª encontre alguma empresa que falta nessa lista ou alguma que estÃ
 - GTAT
 - GTI Engenharia Jr.
 - Halts
+- Hotel Urbano
 - HUBtech
 - IFCE
 - IFPE
@@ -126,6 +132,7 @@ PS.: Caso vocÃª encontre alguma empresa que falta nessa lista ou alguma que estÃ
 - T&T Sistemas
 - Terra
 - Thinkr
+- Thoughtworks
 - Tins
 - Titans Group
 - Tourhouse
